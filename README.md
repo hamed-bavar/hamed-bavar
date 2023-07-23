@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Hamed. I am a frontend developer who graduated with a degree in computer engineering. I am currently studying software engineering as well
-- 🌱 I’m currently studing algorithms and machine learning
+- 🌱 I’m currently studying algorithms and machine learning
 - 👯 I’m looking to collaborate on open source projects
 <!--
 **hamed-bavar/hamed-bavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
